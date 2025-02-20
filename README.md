@@ -7,3 +7,5 @@ The folder "data" contains the datasets
 Data preprocessing is done in data_prep.ipynb
 
 The spatial analysis is performed in analysis.R
+
+The dataset used for the analysis is stored in election_df.parquet
