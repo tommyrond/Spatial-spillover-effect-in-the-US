@@ -9,7 +9,7 @@ library(spatialreg)
 
 set.seed(1)
 
-setwd("~/Geospatial")
+setwd(...) # If needed
 
 # The dataset is read
 df <- read_parquet("election_df.parquet")
